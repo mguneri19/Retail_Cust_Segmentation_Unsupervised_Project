@@ -1,0 +1,16 @@
+{
+    "name": "FLO Dark Minimal",
+    "dataColors": [
+      "#60A5FA",
+      "#A78BFA",
+      "#34D399",
+      "#22D3EE",
+      "#F472B6",
+      "#F59E0B",
+      "#9CA3AF"
+    ],
+    "background": "#1C1A17",
+    "foreground": "#F9FAFB",
+    "tableAccent": "#F97316"
+  }
+  
